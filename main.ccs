@@ -1,0 +1,9 @@
+font-family: 'Yanone Kaffeesatz', sans-serif;
+
+h1{
+font:30pt/1 Yanone Kaffeesatz,bold,sans-serif;
+}
+
+body {
+  font:20pt/1 Yanone Kaffeesatz, sans-serif;
+  }
